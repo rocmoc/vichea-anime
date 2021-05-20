@@ -1,0 +1,46 @@
+.b1{
+    background-image:url("head.png");
+    text-align: center; vertical-align: middle; height: auto; box-align: center;
+    font-size: 80px;
+    height: 150px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-style: italic;
+   text-shadow: black 2px 2px 5px;
+   border-radius: 35px;
+}
+    .elab{
+        font-size:20px;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    }
+    hr {
+        width: 85%;
+        height: 3px;
+        color:gray; 
+    }
+    img {
+        height: 450px;
+        border: rgb(133, 133, 133);
+        margin-top: 70px;
+    }
+    .t1 {
+        background-image: url(pattern.jpg); background-repeat: repeat; width: 70%; 
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 20px;
+        margin-left: 200px;
+
+        color:white; text-align: center;
+    }
+        
+.t2 {
+    background-color: white; width: 80%; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    margin-left: 165px;
+    color:black; text-align: center;
+    padding: -15px; vertical-align: middle; opacity: 1.0;
+}
+
+.link {
+    font-size: 20px; font-style: italic; color: rgb(224, 224, 224); text-decoration: underline;
+}
